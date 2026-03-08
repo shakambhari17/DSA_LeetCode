@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shakambhari17/DSA_/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shakambhari17/DSA_/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/shakambhari17/DSA_/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shakambhari17/DSA_/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shakambhari17/DSA_/tree/master/0283-move-zeroes) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shakambhari17/DSA_/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -25,6 +26,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shakambhari17/DSA_/tree/master/0088-merge-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shakambhari17/DSA_/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
@@ -48,6 +50,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shakambhari17/DSA_/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/shakambhari17/DSA_/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shakambhari17/DSA_/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shakambhari17/DSA_/tree/master/0283-move-zeroes) |
 ## Matrix
