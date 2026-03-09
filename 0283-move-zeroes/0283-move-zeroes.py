@@ -8,6 +8,7 @@ class Solution:
                 break
             i += 1
         else:
+        #if i==len(nums):
             return
         j = i + 1
         while j < len(nums):
