@@ -10,6 +10,7 @@
 | [0189-rotate-array](https://github.com/shakambhari17/DSA_/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shakambhari17/DSA_/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shakambhari17/DSA_/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/shakambhari17/DSA_/tree/master/0485-max-consecutive-ones) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shakambhari17/DSA_/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shakambhari17/DSA_/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Hash Table
