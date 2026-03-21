@@ -1,13 +1,15 @@
+
 class Solution:
-    def rearrangeArray(self, nums: List[int]) -> List[int]:
+    def rearrangeArray(self, nums):
+
         n = len(nums)
-        ans = [0] * n
+        result = [0] * n
         posIndex, negIndex = 0, 1
-        for i in range(n):
-            if nums[i] < 0:
-                ans[negIndex] = nums[i]
-                negIndex += 2
-            else:
-                ans[posIndex] = nums[i]
+        for i in range(0,n):
+            if nums[i] >= 0:
+                result[posIndex] = nums[i]
                 posIndex += 2
-        return ans
+            else:
+                result[negIndex] = nums[i]
+                negIndex += 2
+        return result
