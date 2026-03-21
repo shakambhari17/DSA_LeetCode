@@ -84,4 +84,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shakambhari17/DSA_/tree/master/2149-rearrange-array-elements-by-sign) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/shakambhari17/DSA_/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
