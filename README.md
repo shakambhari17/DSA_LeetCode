@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shakambhari17/DSA_/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/shakambhari17/DSA_/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shakambhari17/DSA_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shakambhari17/DSA_/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/shakambhari17/DSA_/tree/master/0053-maximum-subarray) |
@@ -30,6 +31,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shakambhari17/DSA_/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/shakambhari17/DSA_/tree/master/0058-length-of-last-word) |
 ## Bit Manipulation
 |  |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shakambhari17/DSA_/tree/master/0128-longest-consecutive-sequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shakambhari17/DSA_/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
