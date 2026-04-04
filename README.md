@@ -14,6 +14,7 @@
 | [0088-merge-sorted-array](https://github.com/shakambhari17/DSA_/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shakambhari17/DSA_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shakambhari17/DSA_/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/shakambhari17/DSA_/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/shakambhari17/DSA_/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shakambhari17/DSA_/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shakambhari17/DSA_/tree/master/0283-move-zeroes) |
@@ -36,6 +37,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shakambhari17/DSA_/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shakambhari17/DSA_/tree/master/0268-missing-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shakambhari17/DSA_/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Sorting
