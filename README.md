@@ -15,6 +15,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shakambhari17/DSA_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shakambhari17/DSA_/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shakambhari17/DSA_/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/shakambhari17/DSA_/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shakambhari17/DSA_/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shakambhari17/DSA_/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shakambhari17/DSA_/tree/master/0268-missing-number) |
@@ -29,6 +30,7 @@
 | [0001-two-sum](https://github.com/shakambhari17/DSA_/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shakambhari17/DSA_/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shakambhari17/DSA_/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/shakambhari17/DSA_/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shakambhari17/DSA_/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shakambhari17/DSA_/tree/master/0268-missing-number) |
 ## String
@@ -46,12 +48,14 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shakambhari17/DSA_/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/shakambhari17/DSA_/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shakambhari17/DSA_/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shakambhari17/DSA_/tree/master/0268-missing-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shakambhari17/DSA_/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shakambhari17/DSA_/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shakambhari17/DSA_/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Math
 |  |
@@ -91,6 +95,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shakambhari17/DSA_/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/shakambhari17/DSA_/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
