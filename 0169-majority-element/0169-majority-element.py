@@ -12,5 +12,5 @@ class Solution(object):
             else:
                 count -= 1
 
-        return candidate   # ✅ loop ke bahar hona chahiye
+        return candidate   
         
