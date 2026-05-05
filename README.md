@@ -24,6 +24,7 @@
 | [0485-max-consecutive-ones](https://github.com/shakambhari17/DSA_/tree/master/0485-max-consecutive-ones) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shakambhari17/DSA_/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shakambhari17/DSA_/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1672-richest-customer-wealth](https://github.com/shakambhari17/DSA_/tree/master/1672-richest-customer-wealth) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shakambhari17/DSA_/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2942-find-words-containing-character](https://github.com/shakambhari17/DSA_/tree/master/2942-find-words-containing-character) |
 ## Hash Table
@@ -93,6 +94,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shakambhari17/DSA_/tree/master/0073-set-matrix-zeroes) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shakambhari17/DSA_/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1672-richest-customer-wealth](https://github.com/shakambhari17/DSA_/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
