@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/shakambhari17/DSA_/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shakambhari17/DSA_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shakambhari17/DSA_/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/shakambhari17/DSA_/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/shakambhari17/DSA_/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/shakambhari17/DSA_/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shakambhari17/DSA_/tree/master/0073-set-matrix-zeroes) |
@@ -100,6 +101,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shakambhari17/DSA_/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/shakambhari17/DSA_/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shakambhari17/DSA_/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
