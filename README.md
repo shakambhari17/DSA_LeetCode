@@ -25,6 +25,7 @@
 | [0485-max-consecutive-ones](https://github.com/shakambhari17/DSA_/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shakambhari17/DSA_/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/shakambhari17/DSA_/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/shakambhari17/DSA_/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shakambhari17/DSA_/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shakambhari17/DSA_/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shakambhari17/DSA_/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -62,6 +63,7 @@
 | [0268-missing-number](https://github.com/shakambhari17/DSA_/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shakambhari17/DSA_/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/shakambhari17/DSA_/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/shakambhari17/DSA_/tree/master/1051-height-checker) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shakambhari17/DSA_/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shakambhari17/DSA_/tree/master/0014-longest-common-prefix) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/shakambhari17/DSA_/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
