@@ -29,6 +29,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shakambhari17/DSA_/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shakambhari17/DSA_/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shakambhari17/DSA_/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/shakambhari17/DSA_/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/shakambhari17/DSA_/tree/master/1672-richest-customer-wealth) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shakambhari17/DSA_/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2942-find-words-containing-character](https://github.com/shakambhari17/DSA_/tree/master/2942-find-words-containing-character) |
@@ -42,6 +43,7 @@
 | [0217-contains-duplicate](https://github.com/shakambhari17/DSA_/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shakambhari17/DSA_/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shakambhari17/DSA_/tree/master/0349-intersection-of-two-arrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/shakambhari17/DSA_/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | [0905-sort-array-by-parity](https://github.com/shakambhari17/DSA_/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/shakambhari17/DSA_/tree/master/1051-height-checker) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shakambhari17/DSA_/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/shakambhari17/DSA_/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Counting
 |  |
 | ------- |
