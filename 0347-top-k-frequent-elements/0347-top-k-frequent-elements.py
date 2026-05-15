@@ -1,5 +1,5 @@
-class Solution(object):
-    def topKFrequent(self, nums, k):
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         freq={}
 
         for num in nums:
@@ -9,4 +9,6 @@ class Solution(object):
                 freq[num] = 1
         sorted_freq=sorted(freq, key=freq.get, reverse=True)
         return sorted_freq[:k]
+        
+        
         
