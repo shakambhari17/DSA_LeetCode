@@ -22,6 +22,7 @@
 | [0219-contains-duplicate-ii](https://github.com/shakambhari17/DSA_/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/shakambhari17/DSA_/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shakambhari17/DSA_/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/shakambhari17/DSA_/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shakambhari17/DSA_/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/shakambhari17/DSA_/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shakambhari17/DSA_/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -45,6 +46,7 @@
 | [0217-contains-duplicate](https://github.com/shakambhari17/DSA_/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shakambhari17/DSA_/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/shakambhari17/DSA_/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/shakambhari17/DSA_/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shakambhari17/DSA_/tree/master/0349-intersection-of-two-arrays) |
 | [1122-relative-sort-array](https://github.com/shakambhari17/DSA_/tree/master/1122-relative-sort-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shakambhari17/DSA_/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -67,6 +69,7 @@
 | [0169-majority-element](https://github.com/shakambhari17/DSA_/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shakambhari17/DSA_/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shakambhari17/DSA_/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/shakambhari17/DSA_/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shakambhari17/DSA_/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/shakambhari17/DSA_/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/shakambhari17/DSA_/tree/master/1051-height-checker) |
@@ -77,6 +80,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shakambhari17/DSA_/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shakambhari17/DSA_/tree/master/0347-top-k-frequent-elements) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shakambhari17/DSA_/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Math
 |  |
@@ -124,6 +128,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/shakambhari17/DSA_/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shakambhari17/DSA_/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shakambhari17/DSA_/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,4 +163,16 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shakambhari17/DSA_/tree/master/0219-contains-duplicate-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shakambhari17/DSA_/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shakambhari17/DSA_/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shakambhari17/DSA_/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
