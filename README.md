@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shakambhari17/DSA_/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shakambhari17/DSA_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/shakambhari17/DSA_/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shakambhari17/DSA_/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shakambhari17/DSA_/tree/master/0169-majority-element) |
@@ -53,6 +54,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shakambhari17/DSA_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/shakambhari17/DSA_/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/shakambhari17/DSA_/tree/master/0058-length-of-last-word) |
 | [2942-find-words-containing-character](https://github.com/shakambhari17/DSA_/tree/master/2942-find-words-containing-character) |
@@ -162,6 +164,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shakambhari17/DSA_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/shakambhari17/DSA_/tree/master/0219-contains-duplicate-ii) |
 ## Heap (Priority Queue)
 |  |
