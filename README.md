@@ -60,6 +60,7 @@
 | [0020-valid-parentheses](https://github.com/shakambhari17/DSA_/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shakambhari17/DSA_/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/shakambhari17/DSA_/tree/master/0242-valid-anagram) |
+| [0844-backspace-string-compare](https://github.com/shakambhari17/DSA_/tree/master/0844-backspace-string-compare) |
 | [2942-find-words-containing-character](https://github.com/shakambhari17/DSA_/tree/master/2942-find-words-containing-character) |
 ## Bit Manipulation
 |  |
@@ -114,6 +115,7 @@
 | [0189-rotate-array](https://github.com/shakambhari17/DSA_/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shakambhari17/DSA_/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shakambhari17/DSA_/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/shakambhari17/DSA_/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/shakambhari17/DSA_/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shakambhari17/DSA_/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
@@ -143,6 +145,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/shakambhari17/DSA_/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shakambhari17/DSA_/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Database
 |  |
@@ -186,4 +189,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shakambhari17/DSA_/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/shakambhari17/DSA_/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
