@@ -57,6 +57,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shakambhari17/DSA_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/shakambhari17/DSA_/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/shakambhari17/DSA_/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shakambhari17/DSA_/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/shakambhari17/DSA_/tree/master/0242-valid-anagram) |
 | [2942-find-words-containing-character](https://github.com/shakambhari17/DSA_/tree/master/2942-find-words-containing-character) |
@@ -181,4 +182,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shakambhari17/DSA_/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shakambhari17/DSA_/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
