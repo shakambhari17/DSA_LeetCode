@@ -190,4 +190,16 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/shakambhari17/DSA_/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/shakambhari17/DSA_/tree/master/0844-backspace-string-compare) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/shakambhari17/DSA_/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/shakambhari17/DSA_/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/shakambhari17/DSA_/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
