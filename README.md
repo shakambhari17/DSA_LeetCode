@@ -43,6 +43,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shakambhari17/DSA_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/shakambhari17/DSA_/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shakambhari17/DSA_/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shakambhari17/DSA_/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shakambhari17/DSA_/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shakambhari17/DSA_/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shakambhari17/DSA_/tree/master/0219-contains-duplicate-ii) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shakambhari17/DSA_/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shakambhari17/DSA_/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shakambhari17/DSA_/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shakambhari17/DSA_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shakambhari17/DSA_/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/shakambhari17/DSA_/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shakambhari17/DSA_/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/shakambhari17/DSA_/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shakambhari17/DSA_/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shakambhari17/DSA_/tree/master/0349-intersection-of-two-arrays) |
