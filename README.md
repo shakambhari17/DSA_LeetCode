@@ -97,6 +97,7 @@
 | [0066-plus-one](https://github.com/shakambhari17/DSA_/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shakambhari17/DSA_/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shakambhari17/DSA_/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/shakambhari17/DSA_/tree/master/0326-power-of-three) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shakambhari17/DSA_/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Linked List
 |  |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shakambhari17/DSA_/tree/master/0021-merge-two-sorted-lists) |
+| [0326-power-of-three](https://github.com/shakambhari17/DSA_/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
