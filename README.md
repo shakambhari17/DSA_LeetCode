@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shakambhari17/DSA_/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/shakambhari17/DSA_/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shakambhari17/DSA_/tree/master/0268-missing-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shakambhari17/DSA_/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Sorting
@@ -96,6 +97,7 @@
 | [0009-palindrome-number](https://github.com/shakambhari17/DSA_/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shakambhari17/DSA_/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shakambhari17/DSA_/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/shakambhari17/DSA_/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shakambhari17/DSA_/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shakambhari17/DSA_/tree/master/0326-power-of-three) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shakambhari17/DSA_/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shakambhari17/DSA_/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/shakambhari17/DSA_/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shakambhari17/DSA_/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
