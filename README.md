@@ -62,6 +62,7 @@
 | [0058-length-of-last-word](https://github.com/shakambhari17/DSA_/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/shakambhari17/DSA_/tree/master/0242-valid-anagram) |
 | [0844-backspace-string-compare](https://github.com/shakambhari17/DSA_/tree/master/0844-backspace-string-compare) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/shakambhari17/DSA_/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2942-find-words-containing-character](https://github.com/shakambhari17/DSA_/tree/master/2942-find-words-containing-character) |
 ## Bit Manipulation
 |  |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/shakambhari17/DSA_/tree/master/0844-backspace-string-compare) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/shakambhari17/DSA_/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shakambhari17/DSA_/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Database
 |  |
