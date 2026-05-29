@@ -39,6 +39,7 @@
 | [1672-richest-customer-wealth](https://github.com/shakambhari17/DSA_/tree/master/1672-richest-customer-wealth) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shakambhari17/DSA_/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2942-find-words-containing-character](https://github.com/shakambhari17/DSA_/tree/master/2942-find-words-containing-character) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shakambhari17/DSA_/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [0326-power-of-three](https://github.com/shakambhari17/DSA_/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shakambhari17/DSA_/tree/master/0342-power-of-four) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shakambhari17/DSA_/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shakambhari17/DSA_/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Linked List
 |  |
 | ------- |
