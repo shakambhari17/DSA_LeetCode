@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/shakambhari17/DSA_/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shakambhari17/DSA_/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/shakambhari17/DSA_/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/shakambhari17/DSA_/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shakambhari17/DSA_/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/shakambhari17/DSA_/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/shakambhari17/DSA_/tree/master/0066-plus-one) |
@@ -46,6 +47,7 @@
 | [0001-two-sum](https://github.com/shakambhari17/DSA_/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shakambhari17/DSA_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shakambhari17/DSA_/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/shakambhari17/DSA_/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shakambhari17/DSA_/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shakambhari17/DSA_/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shakambhari17/DSA_/tree/master/0160-intersection-of-two-linked-lists) |
@@ -65,6 +67,7 @@
 | [0013-roman-to-integer](https://github.com/shakambhari17/DSA_/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shakambhari17/DSA_/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shakambhari17/DSA_/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/shakambhari17/DSA_/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shakambhari17/DSA_/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/shakambhari17/DSA_/tree/master/0242-valid-anagram) |
 | [0844-backspace-string-compare](https://github.com/shakambhari17/DSA_/tree/master/0844-backspace-string-compare) |
@@ -81,6 +84,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shakambhari17/DSA_/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shakambhari17/DSA_/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/shakambhari17/DSA_/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shakambhari17/DSA_/tree/master/0169-majority-element) |
