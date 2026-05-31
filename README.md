@@ -219,6 +219,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shakambhari17/DSA_/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/shakambhari17/DSA_/tree/master/0094-binary-tree-inorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/shakambhari17/DSA_/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
@@ -236,4 +237,16 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/shakambhari17/DSA_/tree/master/0046-permutations) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shakambhari17/DSA_/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shakambhari17/DSA_/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shakambhari17/DSA_/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
