@@ -253,6 +253,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/shakambhari17/DSA_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shakambhari17/DSA_/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shakambhari17/DSA_/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shakambhari17/DSA_/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shakambhari17/DSA_/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shakambhari17/DSA_/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
@@ -264,6 +265,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/shakambhari17/DSA_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shakambhari17/DSA_/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shakambhari17/DSA_/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shakambhari17/DSA_/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0938-range-sum-of-bst](https://github.com/shakambhari17/DSA_/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -274,6 +276,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/shakambhari17/DSA_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shakambhari17/DSA_/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shakambhari17/DSA_/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shakambhari17/DSA_/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shakambhari17/DSA_/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shakambhari17/DSA_/tree/master/0938-range-sum-of-bst) |
 ## String Matching
@@ -286,10 +289,12 @@
 | [0100-same-tree](https://github.com/shakambhari17/DSA_/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shakambhari17/DSA_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shakambhari17/DSA_/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shakambhari17/DSA_/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shakambhari17/DSA_/tree/master/0098-validate-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shakambhari17/DSA_/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shakambhari17/DSA_/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shakambhari17/DSA_/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
