@@ -60,6 +60,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shakambhari17/DSA_/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shakambhari17/DSA_/tree/master/0349-intersection-of-two-arrays) |
 | [1122-relative-sort-array](https://github.com/shakambhari17/DSA_/tree/master/1122-relative-sort-array) |
+| [1189-maximum-number-of-balloons](https://github.com/shakambhari17/DSA_/tree/master/1189-maximum-number-of-balloons) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shakambhari17/DSA_/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
 |  |
@@ -73,6 +74,7 @@
 | [0058-length-of-last-word](https://github.com/shakambhari17/DSA_/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/shakambhari17/DSA_/tree/master/0242-valid-anagram) |
 | [0844-backspace-string-compare](https://github.com/shakambhari17/DSA_/tree/master/0844-backspace-string-compare) |
+| [1189-maximum-number-of-balloons](https://github.com/shakambhari17/DSA_/tree/master/1189-maximum-number-of-balloons) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/shakambhari17/DSA_/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2942-find-words-containing-character](https://github.com/shakambhari17/DSA_/tree/master/2942-find-words-containing-character) |
 ## Bit Manipulation
@@ -105,6 +107,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/shakambhari17/DSA_/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shakambhari17/DSA_/tree/master/0347-top-k-frequent-elements) |
+| [1189-maximum-number-of-balloons](https://github.com/shakambhari17/DSA_/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shakambhari17/DSA_/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Math
 |  |
