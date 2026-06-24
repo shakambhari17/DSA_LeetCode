@@ -72,6 +72,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shakambhari17/DSA_/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/shakambhari17/DSA_/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shakambhari17/DSA_/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/shakambhari17/DSA_/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/shakambhari17/DSA_/tree/master/0242-valid-anagram) |
 | [0844-backspace-string-compare](https://github.com/shakambhari17/DSA_/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/shakambhari17/DSA_/tree/master/1189-maximum-number-of-balloons) |
@@ -80,6 +81,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shakambhari17/DSA_/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/shakambhari17/DSA_/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shakambhari17/DSA_/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shakambhari17/DSA_/tree/master/0268-missing-number) |
@@ -115,6 +117,7 @@
 | [0009-palindrome-number](https://github.com/shakambhari17/DSA_/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shakambhari17/DSA_/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shakambhari17/DSA_/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/shakambhari17/DSA_/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shakambhari17/DSA_/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shakambhari17/DSA_/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shakambhari17/DSA_/tree/master/0231-power-of-two) |
@@ -179,6 +182,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shakambhari17/DSA_/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/shakambhari17/DSA_/tree/master/0844-backspace-string-compare) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/shakambhari17/DSA_/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shakambhari17/DSA_/tree/master/2149-rearrange-array-elements-by-sign) |
