@@ -119,6 +119,7 @@
 | [0066-plus-one](https://github.com/shakambhari17/DSA_/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shakambhari17/DSA_/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shakambhari17/DSA_/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/shakambhari17/DSA_/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shakambhari17/DSA_/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shakambhari17/DSA_/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shakambhari17/DSA_/tree/master/0268-missing-number) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shakambhari17/DSA_/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/shakambhari17/DSA_/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shakambhari17/DSA_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
@@ -319,4 +321,8 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/shakambhari17/DSA_/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shakambhari17/DSA_/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/shakambhari17/DSA_/tree/master/0938-range-sum-of-bst) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shakambhari17/DSA_/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
