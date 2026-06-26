@@ -28,6 +28,7 @@
 | [0283-move-zeroes](https://github.com/shakambhari17/DSA_/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/shakambhari17/DSA_/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shakambhari17/DSA_/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/shakambhari17/DSA_/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shakambhari17/DSA_/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shakambhari17/DSA_/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/shakambhari17/DSA_/tree/master/0905-sort-array-by-parity) |
@@ -99,6 +100,7 @@
 | [0268-missing-number](https://github.com/shakambhari17/DSA_/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shakambhari17/DSA_/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shakambhari17/DSA_/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/shakambhari17/DSA_/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/shakambhari17/DSA_/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/shakambhari17/DSA_/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/shakambhari17/DSA_/tree/master/1122-relative-sort-array) |
@@ -151,6 +153,7 @@
 | [0189-rotate-array](https://github.com/shakambhari17/DSA_/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shakambhari17/DSA_/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shakambhari17/DSA_/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/shakambhari17/DSA_/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/shakambhari17/DSA_/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/shakambhari17/DSA_/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shakambhari17/DSA_/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -325,4 +328,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shakambhari17/DSA_/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/shakambhari17/DSA_/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
