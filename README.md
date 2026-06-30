@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shakambhari17/DSA_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shakambhari17/DSA_/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shakambhari17/DSA_/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/shakambhari17/DSA_/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shakambhari17/DSA_/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/shakambhari17/DSA_/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shakambhari17/DSA_/tree/master/0053-maximum-subarray) |
@@ -258,6 +259,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/shakambhari17/DSA_/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shakambhari17/DSA_/tree/master/0046-permutations) |
 ## Tree
 |  |
